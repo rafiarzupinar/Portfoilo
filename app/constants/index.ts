@@ -93,7 +93,7 @@ export const Socials = [
 export const Projects = [
   {
     title: "Modern Nextjs Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    text: "Modern bir Next.js web sitesi geliştiriyorum. Bu proje, yüksek performans, dinamik içerik yönetimi ve SEO optimizasyonu sağlarken, minimal ve kullanıcı dostu bir tasarıma odaklanıyor.",
     src: "/NextWebsite.png",
   },
   {
